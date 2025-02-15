@@ -4,9 +4,9 @@
 👨‍🏫 Professor: Raphael Lopes de Souza<br>
 🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
 <br><br>
-## Exercício 1.1 ✅<br>
+## Exercício 1 ✅<br>
 Revisão de Conhecimentos de Algoritmos em C<br>
 ➡️<a href="#">Veja aqui</a><br><br>
-## Exercício 1 ✅<br>
+## Exercício 2 ✅<br>
 Desenvolvimento de Algoritmos com Arrays<br>
 ➡️<a href="#">Veja aqui</a><br><br>
