@@ -1,5 +1,5 @@
 # 💻 Algoritmos e Estrutura de Dados III <br>
-![image](https://github.com/user-attachments/assets/3348422b-b44a-4295-9a71-9e33908ce3ce)<br>
+![Algorithm](https://github.com/user-attachments/assets/a86bf385-3a46-41a3-b186-0ab5f0cdccff)<br>
 🏫 Universidade Municipal de São Caetano do Sul - USCS<br>
 👨‍🏫 Professor: Raphael Lopes de Souza<br>
 🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
