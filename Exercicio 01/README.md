@@ -1,12 +1,5 @@
-# 💻 Algoritmos e Estrutura de Dados III <br>
-![Algorithm](https://github.com/user-attachments/assets/a86bf385-3a46-41a3-b186-0ab5f0cdccff)<br>
-🏫 Universidade Municipal de São Caetano do Sul - USCS<br>
-👨‍🏫 Professor: Raphael Lopes de Souza<br>
-🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
-<br><br>
-## Exercício 1 ✅<br>
-Revisão de Conhecimentos de Algoritmos em C<br>
-➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2001">Veja aqui</a><br><br>
-## Exercício 2 ✅<br>
-Desenvolvimento de Algoritmos com Arrays<br>
-➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2002">Veja aqui</a><br><br>
+# Exercício I ✏️<br>
+<p>1. Escreva um programa em C que leia três números inteiros do usuário e calcule a soma, a média e o produto desses números. Exiba os resultados na tela com a mensagem apropriada. Lembre-se de usar variáveis para armazenar os valores de entrada, a soma, a média e o produto. ➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/blob/main/Exercicio%2001/01.c">Veja aqui</a></p>
+<p>2. Crie um programa que leia a idade de uma pessoa e informe se ela é maior de idade (18 anos ou mais) ou menor de idade (menos de 18 anos). Utilize a estrutura condicional if para realizar a verificação. ➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/blob/main/Exercicio%2001/02.c">Veja aqui</a></p>
+<p>3. Crie um programa que leia um número inteiro positivo n e imprima os números de 1 até n tanto utilizando o laço for quanto o laço while. O programa deve pedir ao usuário o número n e exibir a sequência de números, uma linha por número. ➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/blob/main/Exercicio%2001/03.c">Veja aqui</a></p>
+<p>4. Escreva uma função em C que receba um array de números inteiros e o seu tamanho, e retorne a soma de todos os elementos do array. O programa principal deve pedir ao usuário para informar o tamanho do array e os elementos. Em seguida, ele deve chamar a função para calcular a soma e exibir o resultado. ➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/blob/main/Exercicio%2001/04.c">Veja aqui</a></p>
