@@ -6,7 +6,7 @@
 <br><br>
 ## Exercício 1 ✅<br>
 Revisão de Conhecimentos de Algoritmos em C<br>
-➡️<a href="#">Veja aqui</a><br><br>
+➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2001">Veja aqui</a><br><br>
 ## Exercício 2 ✅<br>
 Desenvolvimento de Algoritmos com Arrays<br>
-➡️<a href="#">Veja aqui</a><br><br>
+➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2002">Veja aqui</a><br><br>
