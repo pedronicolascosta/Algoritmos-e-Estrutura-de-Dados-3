@@ -1,6 +1,5 @@
-# Algoritmos-e-Estrutura-de-Dados-3
-# 💻 Algoritmos e Estrutura de Dados II <br>
-![image](https://github.com/user-attachments/assets/67d5ac9b-0e42-48e6-b091-6dac4a93aa68)<br>
+# 💻 Algoritmos e Estrutura de Dados III <br>
+![image](https://github.com/user-attachments/assets/3348422b-b44a-4295-9a71-9e33908ce3ce)<br>
 🏫 Universidade Municipal de São Caetano do Sul - USCS<br>
 👨‍🏫 Professor: Raphael Lopes de Souza<br>
 🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
