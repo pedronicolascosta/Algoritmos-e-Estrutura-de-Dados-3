@@ -1,5 +1,2 @@
-# Exercício I ✏️<br>
-1. Escreva um programa em C que leia três números inteiros do usuário e calcule a soma, a média e o produto desses números. Exiba os resultados na tela com a mensagem apropriada. Lembre-se de usar variáveis para armazenar os valores de entrada, a soma, a média e o produto. ➡️ [Veja aqui](01.c) <br><br>
-2. Crie um programa que leia a idade de uma pessoa e informe se ela é maior de idade (18 anos ou mais) ou menor de idade (menos de 18 anos). Utilize a estrutura condicional `if` para realizar a verificação. ➡️ [Veja aqui](02.c) <br><br>
-3. Crie um programa que leia um número inteiro positivo n e imprima os números de 1 até n tanto utilizando o laço `for` quanto o laço `while`. O programa deve pedir ao usuário o número n e exibir a sequência de números, uma linha por número. ➡️ [Veja aqui](03.c) <br><br>
-4. Escreva uma função em C que receba um array de números inteiros e o seu tamanho, e retorne a soma de todos os elementos do array. O programa principal deve pedir ao usuário para informar o tamanho do array e os elementos. Em seguida, ele deve chamar a função para calcular a soma e exibir o resultado. ➡️ [Veja aqui](04.c)
+# Exercício II ✏️<br>
+Implementar em linguagem C todos os exemplos de Arrays ➡️ [Veja aqui](Arrays.pdf)
