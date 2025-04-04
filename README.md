@@ -13,3 +13,9 @@ Desenvolvimento de Algoritmos com Arrays<br>
 ## Exercício 3 ✅<br>
 Desenvolvimento de Algoritmos com Arrays<br>
 ➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2003">Veja aqui</a><br><br>
+## Exercício 4 ✅<br>
+Alocação de Memória em Linguagem C<br>
+➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2004">Veja aqui</a><br><br>
+## Exercício 5 ✅<br>
+Desenvolvimento de Pilha Estática e Pilha Dinâmica<br>
+➡️<a href="https://github.com/pedronicolascosta/Algoritmos-e-Estrutura-de-Dados-3/tree/main/Exercicio%2005">Veja aqui</a><br><br>
